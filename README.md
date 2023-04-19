@@ -1,2 +1,2 @@
 # ifix
-Website for electronic repair
+Website for electronic repair service providers
